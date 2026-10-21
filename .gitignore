@@ -1,0 +1,46 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+target/
+*.class
+*.jar
+*.war
+
+# Environment files and secrets
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.p12
+*.jks
+
+# Logs and runtime data
+logs/
+*.log
+uploads/
+
+# IDE/editor files
+.idea/
+*.iml
+.vscode/
+.project
+.classpath
+.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+.tmp/
+tmp/
+.cache/
+*.tmp
+*.swp
+*~
+
+# Local toolchains and QA artifacts
+tools/

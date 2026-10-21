@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+*.log
+logs/
+.vite/
+.cache/
+.idea/
+.vscode/
+.DS_Store
+*.tmp
+*.swp

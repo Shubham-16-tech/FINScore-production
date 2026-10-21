@@ -1,0 +1,16 @@
+target/
+logs/
+*.log
+.env
+.env.*
+!.env.example
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+.DS_Store
+*.tmp
+*.swp
+uploads/
